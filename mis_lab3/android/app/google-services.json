@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050148436741",
+    "project_id": "hazard-jokes",
+    "storage_bucket": "hazard-jokes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050148436741:android:635c81a0fdf971a1bf956c",
+        "android_client_info": {
+          "package_name": "com.example.mis_lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_q4SXRn9hhI2BF87HCJpCNu6F9Hndy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
